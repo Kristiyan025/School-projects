@@ -1,0 +1,10 @@
+F:\C#\phone timer\phone timer\bin\Debug\phone timer.exe.config
+F:\C#\phone timer\phone timer\bin\Debug\phone timer.exe
+F:\C#\phone timer\phone timer\bin\Debug\phone timer.pdb
+F:\C#\phone timer\phone timer\obj\Debug\phone timer.csprojResolveAssemblyReference.cache
+F:\C#\phone timer\phone timer\obj\Debug\phone_timer.Form1.resources
+F:\C#\phone timer\phone timer\obj\Debug\phone_timer.Properties.Resources.resources
+F:\C#\phone timer\phone timer\obj\Debug\phone timer.csproj.GenerateResource.Cache
+F:\C#\phone timer\phone timer\obj\Debug\phone timer.csproj.CoreCompileInputs.cache
+F:\C#\phone timer\phone timer\obj\Debug\phone timer.exe
+F:\C#\phone timer\phone timer\obj\Debug\phone timer.pdb
