@@ -1,0 +1,13 @@
+C:\Users\Asus\Desktop\Homework-24-11-2020\Gift\bin\Debug\netcoreapp3.1\Gift.exe
+C:\Users\Asus\Desktop\Homework-24-11-2020\Gift\bin\Debug\netcoreapp3.1\Gift.deps.json
+C:\Users\Asus\Desktop\Homework-24-11-2020\Gift\bin\Debug\netcoreapp3.1\Gift.runtimeconfig.json
+C:\Users\Asus\Desktop\Homework-24-11-2020\Gift\bin\Debug\netcoreapp3.1\Gift.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Homework-24-11-2020\Gift\bin\Debug\netcoreapp3.1\Gift.dll
+C:\Users\Asus\Desktop\Homework-24-11-2020\Gift\bin\Debug\netcoreapp3.1\Gift.pdb
+C:\Users\Asus\Desktop\Homework-24-11-2020\Gift\obj\Debug\netcoreapp3.1\Gift.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Homework-24-11-2020\Gift\obj\Debug\netcoreapp3.1\Gift.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Homework-24-11-2020\Gift\obj\Debug\netcoreapp3.1\Gift.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Homework-24-11-2020\Gift\obj\Debug\netcoreapp3.1\Gift.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Homework-24-11-2020\Gift\obj\Debug\netcoreapp3.1\Gift.dll
+C:\Users\Asus\Desktop\Homework-24-11-2020\Gift\obj\Debug\netcoreapp3.1\Gift.pdb
+C:\Users\Asus\Desktop\Homework-24-11-2020\Gift\obj\Debug\netcoreapp3.1\Gift.genruntimeconfig.cache

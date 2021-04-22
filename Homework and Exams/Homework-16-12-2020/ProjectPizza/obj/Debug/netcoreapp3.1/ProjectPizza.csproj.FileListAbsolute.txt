@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\School C#\ProjectPizza\ProjectPizza\bin\Debug\netcoreapp3.1\ProjectPizza.exe
+C:\Users\Asus\Desktop\School C#\ProjectPizza\ProjectPizza\bin\Debug\netcoreapp3.1\ProjectPizza.deps.json
+C:\Users\Asus\Desktop\School C#\ProjectPizza\ProjectPizza\bin\Debug\netcoreapp3.1\ProjectPizza.runtimeconfig.json
+C:\Users\Asus\Desktop\School C#\ProjectPizza\ProjectPizza\bin\Debug\netcoreapp3.1\ProjectPizza.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\School C#\ProjectPizza\ProjectPizza\bin\Debug\netcoreapp3.1\ProjectPizza.dll
+C:\Users\Asus\Desktop\School C#\ProjectPizza\ProjectPizza\bin\Debug\netcoreapp3.1\ProjectPizza.pdb
+C:\Users\Asus\Desktop\School C#\ProjectPizza\ProjectPizza\obj\Debug\netcoreapp3.1\ProjectPizza.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\School C#\ProjectPizza\ProjectPizza\obj\Debug\netcoreapp3.1\ProjectPizza.Form1.resources
+C:\Users\Asus\Desktop\School C#\ProjectPizza\ProjectPizza\obj\Debug\netcoreapp3.1\ProjectPizza.Properties.Resources.resources
+C:\Users\Asus\Desktop\School C#\ProjectPizza\ProjectPizza\obj\Debug\netcoreapp3.1\ProjectPizza.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\School C#\ProjectPizza\ProjectPizza\obj\Debug\netcoreapp3.1\ProjectPizza.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\School C#\ProjectPizza\ProjectPizza\obj\Debug\netcoreapp3.1\ProjectPizza.AssemblyInfo.cs
+C:\Users\Asus\Desktop\School C#\ProjectPizza\ProjectPizza\obj\Debug\netcoreapp3.1\ProjectPizza.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\School C#\ProjectPizza\ProjectPizza\obj\Debug\netcoreapp3.1\ProjectPizza.dll
+C:\Users\Asus\Desktop\School C#\ProjectPizza\ProjectPizza\obj\Debug\netcoreapp3.1\ProjectPizza.pdb
+C:\Users\Asus\Desktop\School C#\ProjectPizza\ProjectPizza\obj\Debug\netcoreapp3.1\ProjectPizza.genruntimeconfig.cache

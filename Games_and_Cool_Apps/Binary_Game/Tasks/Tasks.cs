@@ -1,0 +1,128 @@
+﻿namespace Binary_Game.Tasks
+{
+    using System;
+
+    public static class Tasks
+    {
+        public static Random r = new Random();
+        public static ITask[] tasks =
+        {
+            //Number 2 Base
+            new ChangeNumberBaseTask($"{r.Next(100, 1024):0000000000}", 10, 10, 2, 100),
+            new ChangeNumberBaseTask($"{r.Next(100, 1024):0000000000}", 10, 10, 2, 100),
+            new ChangeNumberBaseTask($"{r.Next(100, 1024):0000000000}", 10, 10, 2, 100),
+            new ChangeNumberBaseTask($"{r.Next(100, 1024):0000000000}", 10, 10, 2, 100),
+            new ChangeNumberBaseTask($"{r.Next(100, 1024):0000000000}", 10, 10, 2, 100),
+            new ChangeNumberBaseTask($"{r.Next(100, 1024):0000000000}", 10, 10, 2, 100),
+            new ChangeNumberBaseTask($"{r.Next(100, 1024):0000000000}", 10, 10, 2, 100),
+            new ChangeNumberBaseTask($"{r.Next(100, 1024):0000000000}", 10, 10, 2, 100),
+            //Number 3 Base
+            new ChangeNumberBaseTask($"{r.Next(100, (int)Math.Pow(3, 8)):0000000000}", 10, 10, 3, 150),
+            new ChangeNumberBaseTask($"{r.Next(100, (int)Math.Pow(3, 8)):0000000000}", 10, 10, 3, 150),
+            new ChangeNumberBaseTask($"{r.Next(100, (int)Math.Pow(3, 8)):0000000000}", 10, 10, 3, 150),
+            new ChangeNumberBaseTask($"{r.Next(100, (int)Math.Pow(3, 8)):0000000000}", 10, 10, 3, 150),
+            new ChangeNumberBaseTask($"{r.Next(100, (int)Math.Pow(3, 8)):0000000000}", 10, 10, 3, 150),
+            new ChangeNumberBaseTask($"{r.Next(100, (int)Math.Pow(3, 8)):0000000000}", 10, 10, 3, 150),
+            new ChangeNumberBaseTask($"{r.Next(100, (int)Math.Pow(3, 8)):0000000000}", 10, 10, 3, 150),
+            new ChangeNumberBaseTask($"{r.Next(100, (int)Math.Pow(3, 8)):0000000000}", 10, 10, 3, 150),
+            //Number 4 Base
+            new ChangeNumberBaseTask($"{r.Next(100, (int)Math.Pow(4, 7)):0000000000}", 10, 10, 4, 250),
+            new ChangeNumberBaseTask($"{r.Next(100, (int)Math.Pow(4, 7)):0000000000}", 10, 10, 4, 250),
+            new ChangeNumberBaseTask($"{r.Next(100, (int)Math.Pow(4, 7)):0000000000}", 10, 10, 4, 250),
+            new ChangeNumberBaseTask($"{r.Next(100, (int)Math.Pow(4, 7)):0000000000}", 10, 10, 4, 250),
+            new ChangeNumberBaseTask($"{r.Next(100, (int)Math.Pow(4, 7)):0000000000}", 10, 10, 4, 250),
+            new ChangeNumberBaseTask($"{r.Next(100, (int)Math.Pow(4, 7)):0000000000}", 10, 10, 4, 250),
+            new ChangeNumberBaseTask($"{r.Next(100, (int)Math.Pow(4, 7)):0000000000}", 10, 10, 4, 250),
+            new ChangeNumberBaseTask($"{r.Next(100, (int)Math.Pow(4, 7)):0000000000}", 10, 10, 4, 250),
+            //Number 8 Base
+            new ChangeNumberBaseTask($"{r.Next(100, (int)Math.Pow(8, 3)):0000000000}", 10, 10, 8, 350),
+            new ChangeNumberBaseTask($"{r.Next(100, (int)Math.Pow(8, 3)):0000000000}", 10, 10, 8, 350),
+            new ChangeNumberBaseTask($"{r.Next(100, (int)Math.Pow(8, 3)):0000000000}", 10, 10, 8, 350),
+            new ChangeNumberBaseTask($"{r.Next(100, (int)Math.Pow(8, 3)):0000000000}", 10, 10, 8, 350),
+            new ChangeNumberBaseTask($"{r.Next(100, (int)Math.Pow(8, 3)):0000000000}", 10, 10, 8, 350),
+            new ChangeNumberBaseTask($"{r.Next(100, (int)Math.Pow(8, 3)):0000000000}", 10, 10, 8, 350),
+            new ChangeNumberBaseTask($"{r.Next(100, (int)Math.Pow(8, 3)):0000000000}", 10, 10, 8, 350),
+            new ChangeNumberBaseTask($"{r.Next(100, (int)Math.Pow(8, 3)):0000000000}", 10, 10, 8, 350),
+            //Number 2 Base
+            new AddingTask($"{r.Next(100, 512):0000000000}", $"{r.Next(100, 512):0000000000}", 10, 2, 450),
+            new AddingTask($"{r.Next(100, 512):0000000000}", $"{r.Next(100, 512):0000000000}", 10, 2, 450),
+            new AddingTask($"{r.Next(100, 512):0000000000}", $"{r.Next(100, 512):0000000000}", 10, 2, 450),
+            new AddingTask($"{r.Next(100, 512):0000000000}", $"{r.Next(100, 512):0000000000}", 10, 2, 450),
+            new AddingTask($"{r.Next(100, 512):0000000000}", $"{r.Next(100, 512):0000000000}", 10, 2, 450),
+            new AddingTask($"{r.Next(100, 512):0000000000}", $"{r.Next(100, 512):0000000000}", 10, 2, 450),
+            new AddingTask($"{r.Next(100, 512):0000000000}", $"{r.Next(100, 512):0000000000}", 10, 2, 450),
+            new AddingTask($"{r.Next(100, 512):0000000000}", $"{r.Next(100, 512):0000000000}", 10, 2, 450),
+            new AddingTask($"{r.Next(100, 512):0000000000}", $"{r.Next(100, 512):0000000000}", 10, 2, 450),
+            //Number 3 Base
+            new AddingTask($"{r.Next(100, (int)Math.Pow(3, 9)):0000000000}", $"{r.Next(100, (int)Math.Pow(3,9)):0000000000}", 10, 3, 650),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(3, 9)):0000000000}", $"{r.Next(100, (int)Math.Pow(3,9)):0000000000}", 10, 3, 650),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(3, 9)):0000000000}", $"{r.Next(100, (int)Math.Pow(3,9)):0000000000}", 10, 3, 650),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(3, 9)):0000000000}", $"{r.Next(100, (int)Math.Pow(3,9)):0000000000}", 10, 3, 650),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(3, 9)):0000000000}", $"{r.Next(100, (int)Math.Pow(3,9)):0000000000}", 10, 3, 650),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(3, 9)):0000000000}", $"{r.Next(100, (int)Math.Pow(3,9)):0000000000}", 10, 3, 650),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(3, 9)):0000000000}", $"{r.Next(100, (int)Math.Pow(3,9)):0000000000}", 10, 3, 650),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(3, 9)):0000000000}", $"{r.Next(100, (int)Math.Pow(3,9)):0000000000}", 10, 3, 650),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(3, 9)):0000000000}", $"{r.Next(100, (int)Math.Pow(3,9)):0000000000}", 10, 3, 650),
+            //Number 4 Base
+            new AddingTask($"{r.Next(100, (int)Math.Pow(4, 6)):0000000000}", $"{r.Next(100, (int)Math.Pow(4, 6)):0000000000}", 10, 4, 750),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(4, 6)):0000000000}", $"{r.Next(100, (int)Math.Pow(4, 6)):0000000000}", 10, 4, 750),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(4, 6)):0000000000}", $"{r.Next(100, (int)Math.Pow(4, 6)):0000000000}", 10, 4, 750),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(4, 6)):0000000000}", $"{r.Next(100, (int)Math.Pow(4, 6)):0000000000}", 10, 4, 750),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(4, 6)):0000000000}", $"{r.Next(100, (int)Math.Pow(4, 6)):0000000000}", 10, 4, 750),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(4, 6)):0000000000}", $"{r.Next(100, (int)Math.Pow(4, 6)):0000000000}", 10, 4, 750),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(4, 6)):0000000000}", $"{r.Next(100, (int)Math.Pow(4, 6)):0000000000}", 10, 4, 750),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(4, 6)):0000000000}", $"{r.Next(100, (int)Math.Pow(4, 6)):0000000000}", 10, 4, 750),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(4, 6)):0000000000}", $"{r.Next(100, (int)Math.Pow(4, 6)):0000000000}", 10, 4, 750),
+            //Number 5 Base
+            new AddingTask($"{r.Next(100, (int)Math.Pow(5, 6)):0000000000}", $"{r.Next(100, (int)Math.Pow(5, 6)):0000000000}", 10, 5, 850),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(5, 6)):0000000000}", $"{r.Next(100, (int)Math.Pow(5, 6)):0000000000}", 10, 5, 850),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(5, 6)):0000000000}", $"{r.Next(100, (int)Math.Pow(5, 6)):0000000000}", 10, 5, 850),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(5, 6)):0000000000}", $"{r.Next(100, (int)Math.Pow(5, 6)):0000000000}", 10, 5, 850),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(5, 6)):0000000000}", $"{r.Next(100, (int)Math.Pow(5, 6)):0000000000}", 10, 5, 850),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(5, 6)):0000000000}", $"{r.Next(100, (int)Math.Pow(5, 6)):0000000000}", 10, 5, 850),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(5, 6)):0000000000}", $"{r.Next(100, (int)Math.Pow(5, 6)):0000000000}", 10, 5, 850),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(5, 6)):0000000000}", $"{r.Next(100, (int)Math.Pow(5, 6)):0000000000}", 10, 5, 850),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(5, 6)):0000000000}", $"{r.Next(100, (int)Math.Pow(5, 6)):0000000000}", 10, 5, 850),
+            //Number 6 Base
+            new AddingTask($"{r.Next(100, (int)Math.Pow(6, 6)):0000000000}", $"{r.Next(100, (int)Math.Pow(6, 6)):0000000000}", 10, 6, 950),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(6, 6)):0000000000}", $"{r.Next(100, (int)Math.Pow(6, 6)):0000000000}", 10, 6, 950),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(6, 6)):0000000000}", $"{r.Next(100, (int)Math.Pow(6, 6)):0000000000}", 10, 6, 950),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(6, 6)):0000000000}", $"{r.Next(100, (int)Math.Pow(6, 6)):0000000000}", 10, 6, 950),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(6, 6)):0000000000}", $"{r.Next(100, (int)Math.Pow(6, 6)):0000000000}", 10, 6, 950),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(6, 6)):0000000000}", $"{r.Next(100, (int)Math.Pow(6, 6)):0000000000}", 10, 6, 950),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(6, 6)):0000000000}", $"{r.Next(100, (int)Math.Pow(6, 6)):0000000000}", 10, 6, 950),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(6, 6)):0000000000}", $"{r.Next(100, (int)Math.Pow(6, 6)):0000000000}", 10, 6, 950),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(6, 6)):0000000000}", $"{r.Next(100, (int)Math.Pow(6, 6)):0000000000}", 10, 6, 950),
+            //Number 7 Base
+            new AddingTask($"{r.Next(100, (int)Math.Pow(7, 6)):0000000000}", $"{r.Next(100, (int)Math.Pow(6, 6)):0000000000}", 10, 7, 1050),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(7, 6)):0000000000}", $"{r.Next(100, (int)Math.Pow(6, 6)):0000000000}", 10, 7, 1050),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(7, 6)):0000000000}", $"{r.Next(100, (int)Math.Pow(6, 6)):0000000000}", 10, 7, 1050),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(7, 6)):0000000000}", $"{r.Next(100, (int)Math.Pow(6, 6)):0000000000}", 10, 7, 1050),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(7, 6)):0000000000}", $"{r.Next(100, (int)Math.Pow(6, 6)):0000000000}", 10, 7, 1050),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(7, 6)):0000000000}", $"{r.Next(100, (int)Math.Pow(6, 6)):0000000000}", 10, 7, 1050),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(7, 6)):0000000000}", $"{r.Next(100, (int)Math.Pow(6, 6)):0000000000}", 10, 7, 1050),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(7, 6)):0000000000}", $"{r.Next(100, (int)Math.Pow(6, 6)):0000000000}", 10, 7, 1050),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(7, 6)):0000000000}", $"{r.Next(100, (int)Math.Pow(6, 6)):0000000000}", 10, 7, 1050),
+            //Number 8 Base
+            new AddingTask($"{r.Next(100, (int)Math.Pow(8, 5)):0000000000}", $"{r.Next(100, (int)Math.Pow(8, 5)):0000000000}", 10, 8, 1150),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(8, 5)):0000000000}", $"{r.Next(100, (int)Math.Pow(8, 5)):0000000000}", 10, 8, 1150),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(8, 5)):0000000000}", $"{r.Next(100, (int)Math.Pow(8, 5)):0000000000}", 10, 8, 1150),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(8, 5)):0000000000}", $"{r.Next(100, (int)Math.Pow(8, 5)):0000000000}", 10, 8, 1150),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(8, 5)):0000000000}", $"{r.Next(100, (int)Math.Pow(8, 5)):0000000000}", 10, 8, 1150),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(8, 5)):0000000000}", $"{r.Next(100, (int)Math.Pow(8, 5)):0000000000}", 10, 8, 1150),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(8, 5)):0000000000}", $"{r.Next(100, (int)Math.Pow(8, 5)):0000000000}", 10, 8, 1150),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(8, 5)):0000000000}", $"{r.Next(100, (int)Math.Pow(8, 5)):0000000000}", 10, 8, 1150),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(8, 5)):0000000000}", $"{r.Next(100, (int)Math.Pow(8, 5)):0000000000}", 10, 8, 1150),
+            //Number 9 Base
+            new AddingTask($"{r.Next(100, (int)Math.Pow(9, 5)):0000000000}", $"{r.Next(100, (int)Math.Pow(9, 5)):0000000000}", 10, 9, 1250),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(9, 5)):0000000000}", $"{r.Next(100, (int)Math.Pow(9, 5)):0000000000}", 10, 9, 1250),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(9, 5)):0000000000}", $"{r.Next(100, (int)Math.Pow(9, 5)):0000000000}", 10, 9, 1250),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(9, 5)):0000000000}", $"{r.Next(100, (int)Math.Pow(9, 5)):0000000000}", 10, 9, 1250),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(9, 5)):0000000000}", $"{r.Next(100, (int)Math.Pow(9, 5)):0000000000}", 10, 9, 1250),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(9, 5)):0000000000}", $"{r.Next(100, (int)Math.Pow(9, 5)):0000000000}", 10, 9, 1250),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(9, 5)):0000000000}", $"{r.Next(100, (int)Math.Pow(9, 5)):0000000000}", 10, 9, 1250),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(9, 5)):0000000000}", $"{r.Next(100, (int)Math.Pow(9, 5)):0000000000}", 10, 9, 1250),
+            new AddingTask($"{r.Next(100, (int)Math.Pow(9, 5)):0000000000}", $"{r.Next(100, (int)Math.Pow(9, 5)):0000000000}", 10, 9, 1250),
+        };
+    }
+}

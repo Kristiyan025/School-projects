@@ -1,0 +1,32 @@
+C:\Users\Asus\Desktop\MovingBuddy\MovingBuddy\obj\Debug\netcoreapp3.1\MovingBuddy.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\MovingBuddy\MovingBuddy\obj\Debug\netcoreapp3.1\MovingBuddy.Form1.resources
+C:\Users\Asus\Desktop\MovingBuddy\MovingBuddy\obj\Debug\netcoreapp3.1\MovingBuddy.Properties.Resources.resources
+C:\Users\Asus\Desktop\MovingBuddy\MovingBuddy\obj\Debug\netcoreapp3.1\MovingBuddy.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\MovingBuddy\MovingBuddy\obj\Debug\netcoreapp3.1\MovingBuddy.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\MovingBuddy\MovingBuddy\obj\Debug\netcoreapp3.1\MovingBuddy.AssemblyInfo.cs
+C:\Users\Asus\Desktop\MovingBuddy\MovingBuddy\obj\Debug\netcoreapp3.1\MovingBuddy.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\MovingBuddy\MovingBuddy\bin\Debug\netcoreapp3.1\MovingBuddy.exe
+C:\Users\Asus\Desktop\MovingBuddy\MovingBuddy\bin\Debug\netcoreapp3.1\MovingBuddy.deps.json
+C:\Users\Asus\Desktop\MovingBuddy\MovingBuddy\bin\Debug\netcoreapp3.1\MovingBuddy.runtimeconfig.json
+C:\Users\Asus\Desktop\MovingBuddy\MovingBuddy\bin\Debug\netcoreapp3.1\MovingBuddy.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\MovingBuddy\MovingBuddy\bin\Debug\netcoreapp3.1\MovingBuddy.dll
+C:\Users\Asus\Desktop\MovingBuddy\MovingBuddy\bin\Debug\netcoreapp3.1\MovingBuddy.pdb
+C:\Users\Asus\Desktop\MovingBuddy\MovingBuddy\obj\Debug\netcoreapp3.1\MovingBuddy.dll
+C:\Users\Asus\Desktop\MovingBuddy\MovingBuddy\obj\Debug\netcoreapp3.1\MovingBuddy.pdb
+C:\Users\Asus\Desktop\MovingBuddy\MovingBuddy\obj\Debug\netcoreapp3.1\MovingBuddy.genruntimeconfig.cache
+C:\Users\Asus\Desktop\School C#\MovingBuddy\MovingBuddy\bin\Debug\netcoreapp3.1\MovingBuddy.exe
+C:\Users\Asus\Desktop\School C#\MovingBuddy\MovingBuddy\bin\Debug\netcoreapp3.1\MovingBuddy.deps.json
+C:\Users\Asus\Desktop\School C#\MovingBuddy\MovingBuddy\bin\Debug\netcoreapp3.1\MovingBuddy.runtimeconfig.json
+C:\Users\Asus\Desktop\School C#\MovingBuddy\MovingBuddy\bin\Debug\netcoreapp3.1\MovingBuddy.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\School C#\MovingBuddy\MovingBuddy\bin\Debug\netcoreapp3.1\MovingBuddy.dll
+C:\Users\Asus\Desktop\School C#\MovingBuddy\MovingBuddy\bin\Debug\netcoreapp3.1\MovingBuddy.pdb
+C:\Users\Asus\Desktop\School C#\MovingBuddy\MovingBuddy\obj\Debug\netcoreapp3.1\MovingBuddy.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\School C#\MovingBuddy\MovingBuddy\obj\Debug\netcoreapp3.1\MovingBuddy.Form1.resources
+C:\Users\Asus\Desktop\School C#\MovingBuddy\MovingBuddy\obj\Debug\netcoreapp3.1\MovingBuddy.Properties.Resources.resources
+C:\Users\Asus\Desktop\School C#\MovingBuddy\MovingBuddy\obj\Debug\netcoreapp3.1\MovingBuddy.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\School C#\MovingBuddy\MovingBuddy\obj\Debug\netcoreapp3.1\MovingBuddy.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\School C#\MovingBuddy\MovingBuddy\obj\Debug\netcoreapp3.1\MovingBuddy.AssemblyInfo.cs
+C:\Users\Asus\Desktop\School C#\MovingBuddy\MovingBuddy\obj\Debug\netcoreapp3.1\MovingBuddy.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\School C#\MovingBuddy\MovingBuddy\obj\Debug\netcoreapp3.1\MovingBuddy.dll
+C:\Users\Asus\Desktop\School C#\MovingBuddy\MovingBuddy\obj\Debug\netcoreapp3.1\MovingBuddy.pdb
+C:\Users\Asus\Desktop\School C#\MovingBuddy\MovingBuddy\obj\Debug\netcoreapp3.1\MovingBuddy.genruntimeconfig.cache

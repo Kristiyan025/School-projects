@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nasl_20", "Nasl_20\Nasl_20.csproj", "{444E98A1-AB3A-4B2D-A46A-BEC71F678128}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorf_20", "Polimorf_20\Polimorf_20.csproj", "{F333A96B-71AA-4D0B-834B-559BAE19A62B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{444E98A1-AB3A-4B2D-A46A-BEC71F678128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{444E98A1-AB3A-4B2D-A46A-BEC71F678128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{444E98A1-AB3A-4B2D-A46A-BEC71F678128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{444E98A1-AB3A-4B2D-A46A-BEC71F678128}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F333A96B-71AA-4D0B-834B-559BAE19A62B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F333A96B-71AA-4D0B-834B-559BAE19A62B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F333A96B-71AA-4D0B-834B-559BAE19A62B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F333A96B-71AA-4D0B-834B-559BAE19A62B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {127BB86A-B073-48BC-B459-5C0C0E52FFF6}
+	EndGlobalSection
+EndGlobal

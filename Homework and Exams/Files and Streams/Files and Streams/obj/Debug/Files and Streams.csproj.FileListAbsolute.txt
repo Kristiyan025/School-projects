@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\School C#\Files and Streams\Files and Streams\bin\Debug\Files and Streams.exe.config
+C:\Users\Asus\Desktop\School C#\Files and Streams\Files and Streams\bin\Debug\Files and Streams.exe
+C:\Users\Asus\Desktop\School C#\Files and Streams\Files and Streams\bin\Debug\Files and Streams.pdb
+C:\Users\Asus\Desktop\School C#\Files and Streams\Files and Streams\obj\Debug\Files and Streams.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\School C#\Files and Streams\Files and Streams\obj\Debug\Files_and_Streams.Form1.resources
+C:\Users\Asus\Desktop\School C#\Files and Streams\Files and Streams\obj\Debug\Files_and_Streams.Properties.Resources.resources
+C:\Users\Asus\Desktop\School C#\Files and Streams\Files and Streams\obj\Debug\Files and Streams.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\School C#\Files and Streams\Files and Streams\obj\Debug\Files and Streams.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\School C#\Files and Streams\Files and Streams\obj\Debug\Files and Streams.exe
+C:\Users\Asus\Desktop\School C#\Files and Streams\Files and Streams\obj\Debug\Files and Streams.pdb

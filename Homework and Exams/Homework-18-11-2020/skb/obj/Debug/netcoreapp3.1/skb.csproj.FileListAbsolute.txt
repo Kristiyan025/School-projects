@@ -1,0 +1,13 @@
+C:\Users\Asus\Desktop\Homework-18-11-2020\skb\bin\Debug\netcoreapp3.1\skb.exe
+C:\Users\Asus\Desktop\Homework-18-11-2020\skb\bin\Debug\netcoreapp3.1\skb.deps.json
+C:\Users\Asus\Desktop\Homework-18-11-2020\skb\bin\Debug\netcoreapp3.1\skb.runtimeconfig.json
+C:\Users\Asus\Desktop\Homework-18-11-2020\skb\bin\Debug\netcoreapp3.1\skb.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Homework-18-11-2020\skb\bin\Debug\netcoreapp3.1\skb.dll
+C:\Users\Asus\Desktop\Homework-18-11-2020\skb\bin\Debug\netcoreapp3.1\skb.pdb
+C:\Users\Asus\Desktop\Homework-18-11-2020\skb\obj\Debug\netcoreapp3.1\skb.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Homework-18-11-2020\skb\obj\Debug\netcoreapp3.1\skb.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Homework-18-11-2020\skb\obj\Debug\netcoreapp3.1\skb.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Homework-18-11-2020\skb\obj\Debug\netcoreapp3.1\skb.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Homework-18-11-2020\skb\obj\Debug\netcoreapp3.1\skb.dll
+C:\Users\Asus\Desktop\Homework-18-11-2020\skb\obj\Debug\netcoreapp3.1\skb.pdb
+C:\Users\Asus\Desktop\Homework-18-11-2020\skb\obj\Debug\netcoreapp3.1\skb.genruntimeconfig.cache

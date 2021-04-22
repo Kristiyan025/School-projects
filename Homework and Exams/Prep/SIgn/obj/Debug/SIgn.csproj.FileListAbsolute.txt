@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\School C#\Prep\SIgn\bin\Debug\SIgn.exe.config
+C:\Users\Asus\Desktop\School C#\Prep\SIgn\bin\Debug\SIgn.exe
+C:\Users\Asus\Desktop\School C#\Prep\SIgn\bin\Debug\SIgn.pdb
+C:\Users\Asus\Desktop\School C#\Prep\SIgn\obj\Debug\SIgn.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\School C#\Prep\SIgn\obj\Debug\SIgn.Form1.resources
+C:\Users\Asus\Desktop\School C#\Prep\SIgn\obj\Debug\SIgn.Properties.Resources.resources
+C:\Users\Asus\Desktop\School C#\Prep\SIgn\obj\Debug\SIgn.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\School C#\Prep\SIgn\obj\Debug\SIgn.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\School C#\Prep\SIgn\obj\Debug\SIgn.exe
+C:\Users\Asus\Desktop\School C#\Prep\SIgn\obj\Debug\SIgn.pdb

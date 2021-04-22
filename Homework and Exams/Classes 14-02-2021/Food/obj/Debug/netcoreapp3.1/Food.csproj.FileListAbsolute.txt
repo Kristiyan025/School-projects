@@ -1,0 +1,13 @@
+C:\Users\Asus\Desktop\School C#\Classes 14-02-2021\Food\bin\Debug\netcoreapp3.1\Food.exe
+C:\Users\Asus\Desktop\School C#\Classes 14-02-2021\Food\bin\Debug\netcoreapp3.1\Food.deps.json
+C:\Users\Asus\Desktop\School C#\Classes 14-02-2021\Food\bin\Debug\netcoreapp3.1\Food.runtimeconfig.json
+C:\Users\Asus\Desktop\School C#\Classes 14-02-2021\Food\bin\Debug\netcoreapp3.1\Food.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\School C#\Classes 14-02-2021\Food\bin\Debug\netcoreapp3.1\Food.dll
+C:\Users\Asus\Desktop\School C#\Classes 14-02-2021\Food\bin\Debug\netcoreapp3.1\Food.pdb
+C:\Users\Asus\Desktop\School C#\Classes 14-02-2021\Food\obj\Debug\netcoreapp3.1\Food.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\School C#\Classes 14-02-2021\Food\obj\Debug\netcoreapp3.1\Food.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\School C#\Classes 14-02-2021\Food\obj\Debug\netcoreapp3.1\Food.AssemblyInfo.cs
+C:\Users\Asus\Desktop\School C#\Classes 14-02-2021\Food\obj\Debug\netcoreapp3.1\Food.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\School C#\Classes 14-02-2021\Food\obj\Debug\netcoreapp3.1\Food.dll
+C:\Users\Asus\Desktop\School C#\Classes 14-02-2021\Food\obj\Debug\netcoreapp3.1\Food.pdb
+C:\Users\Asus\Desktop\School C#\Classes 14-02-2021\Food\obj\Debug\netcoreapp3.1\Food.genruntimeconfig.cache

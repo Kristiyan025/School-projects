@@ -1,0 +1,13 @@
+C:\Users\Asus\Desktop\Homework-24-11-2020\Nickname\bin\Debug\netcoreapp3.1\Nickname.exe
+C:\Users\Asus\Desktop\Homework-24-11-2020\Nickname\bin\Debug\netcoreapp3.1\Nickname.deps.json
+C:\Users\Asus\Desktop\Homework-24-11-2020\Nickname\bin\Debug\netcoreapp3.1\Nickname.runtimeconfig.json
+C:\Users\Asus\Desktop\Homework-24-11-2020\Nickname\bin\Debug\netcoreapp3.1\Nickname.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Homework-24-11-2020\Nickname\bin\Debug\netcoreapp3.1\Nickname.dll
+C:\Users\Asus\Desktop\Homework-24-11-2020\Nickname\bin\Debug\netcoreapp3.1\Nickname.pdb
+C:\Users\Asus\Desktop\Homework-24-11-2020\Nickname\obj\Debug\netcoreapp3.1\Nickname.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Homework-24-11-2020\Nickname\obj\Debug\netcoreapp3.1\Nickname.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Homework-24-11-2020\Nickname\obj\Debug\netcoreapp3.1\Nickname.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Homework-24-11-2020\Nickname\obj\Debug\netcoreapp3.1\Nickname.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Homework-24-11-2020\Nickname\obj\Debug\netcoreapp3.1\Nickname.dll
+C:\Users\Asus\Desktop\Homework-24-11-2020\Nickname\obj\Debug\netcoreapp3.1\Nickname.pdb
+C:\Users\Asus\Desktop\Homework-24-11-2020\Nickname\obj\Debug\netcoreapp3.1\Nickname.genruntimeconfig.cache

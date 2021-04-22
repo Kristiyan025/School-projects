@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\Projects\plochki\bin\Debug\plochki.exe.config
+C:\Users\Asus\Desktop\Projects\plochki\bin\Debug\plochki.exe
+C:\Users\Asus\Desktop\Projects\plochki\bin\Debug\plochki.pdb
+C:\Users\Asus\Desktop\Projects\plochki\obj\Debug\Tiles.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Projects\plochki\obj\Debug\plochki.MenuForm.resources
+C:\Users\Asus\Desktop\Projects\plochki\obj\Debug\plochki.OrderForm.resources
+C:\Users\Asus\Desktop\Projects\plochki\obj\Debug\plochki.Properties.Resources.resources
+C:\Users\Asus\Desktop\Projects\plochki\obj\Debug\Tiles.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Projects\plochki\obj\Debug\Tiles.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Projects\plochki\obj\Debug\plochki.exe
+C:\Users\Asus\Desktop\Projects\plochki\obj\Debug\plochki.pdb

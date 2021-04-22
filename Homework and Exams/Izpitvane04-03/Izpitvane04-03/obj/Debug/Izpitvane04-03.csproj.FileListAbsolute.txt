@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\School C#\Homework-18-11-2020\Izpitvane04-03\Izpitvane04-03\bin\Debug\Izpitvane04-03.exe.config
+C:\Users\Asus\Desktop\School C#\Homework-18-11-2020\Izpitvane04-03\Izpitvane04-03\bin\Debug\Izpitvane04-03.exe
+C:\Users\Asus\Desktop\School C#\Homework-18-11-2020\Izpitvane04-03\Izpitvane04-03\bin\Debug\Izpitvane04-03.pdb
+C:\Users\Asus\Desktop\School C#\Homework-18-11-2020\Izpitvane04-03\Izpitvane04-03\obj\Debug\Izpitvane04-03.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\School C#\Homework-18-11-2020\Izpitvane04-03\Izpitvane04-03\obj\Debug\Izpitvane04-03.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\School C#\Homework-18-11-2020\Izpitvane04-03\Izpitvane04-03\obj\Debug\Izpitvane04-03.exe
+C:\Users\Asus\Desktop\School C#\Homework-18-11-2020\Izpitvane04-03\Izpitvane04-03\obj\Debug\Izpitvane04-03.pdb
+C:\Users\Asus\Desktop\School C#\Izpitvane04-03\Izpitvane04-03\bin\Debug\Izpitvane04-03.exe.config
+C:\Users\Asus\Desktop\School C#\Izpitvane04-03\Izpitvane04-03\bin\Debug\Izpitvane04-03.exe
+C:\Users\Asus\Desktop\School C#\Izpitvane04-03\Izpitvane04-03\bin\Debug\Izpitvane04-03.pdb
+C:\Users\Asus\Desktop\School C#\Izpitvane04-03\Izpitvane04-03\obj\Debug\Izpitvane04-03.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\School C#\Izpitvane04-03\Izpitvane04-03\obj\Debug\Izpitvane04-03.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\School C#\Izpitvane04-03\Izpitvane04-03\obj\Debug\Izpitvane04-03.exe
+C:\Users\Asus\Desktop\School C#\Izpitvane04-03\Izpitvane04-03\obj\Debug\Izpitvane04-03.pdb

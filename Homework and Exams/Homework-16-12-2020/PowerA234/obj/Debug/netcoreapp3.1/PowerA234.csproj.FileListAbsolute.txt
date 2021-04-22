@@ -1,0 +1,13 @@
+C:\Users\Asus\Desktop\School C#\ProjectPizza\PowerA234\bin\Debug\netcoreapp3.1\PowerA234.exe
+C:\Users\Asus\Desktop\School C#\ProjectPizza\PowerA234\bin\Debug\netcoreapp3.1\PowerA234.deps.json
+C:\Users\Asus\Desktop\School C#\ProjectPizza\PowerA234\bin\Debug\netcoreapp3.1\PowerA234.runtimeconfig.json
+C:\Users\Asus\Desktop\School C#\ProjectPizza\PowerA234\bin\Debug\netcoreapp3.1\PowerA234.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\School C#\ProjectPizza\PowerA234\bin\Debug\netcoreapp3.1\PowerA234.dll
+C:\Users\Asus\Desktop\School C#\ProjectPizza\PowerA234\bin\Debug\netcoreapp3.1\PowerA234.pdb
+C:\Users\Asus\Desktop\School C#\ProjectPizza\PowerA234\obj\Debug\netcoreapp3.1\PowerA234.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\School C#\ProjectPizza\PowerA234\obj\Debug\netcoreapp3.1\PowerA234.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\School C#\ProjectPizza\PowerA234\obj\Debug\netcoreapp3.1\PowerA234.AssemblyInfo.cs
+C:\Users\Asus\Desktop\School C#\ProjectPizza\PowerA234\obj\Debug\netcoreapp3.1\PowerA234.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\School C#\ProjectPizza\PowerA234\obj\Debug\netcoreapp3.1\PowerA234.dll
+C:\Users\Asus\Desktop\School C#\ProjectPizza\PowerA234\obj\Debug\netcoreapp3.1\PowerA234.pdb
+C:\Users\Asus\Desktop\School C#\ProjectPizza\PowerA234\obj\Debug\netcoreapp3.1\PowerA234.genruntimeconfig.cache

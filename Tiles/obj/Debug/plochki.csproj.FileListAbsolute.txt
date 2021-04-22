@@ -1,0 +1,11 @@
+d:\Users\admin\Documents\plochki\obj\Debug\plochki.csprojAssemblyReference.cache
+d:\Users\admin\Documents\plochki\obj\Debug\plochki.MenuForm.resources
+d:\Users\admin\Documents\plochki\obj\Debug\plochki.Properties.Resources.resources
+d:\Users\admin\Documents\plochki\obj\Debug\plochki.csproj.GenerateResource.cache
+d:\Users\admin\Documents\plochki\obj\Debug\plochki.csproj.CoreCompileInputs.cache
+d:\Users\admin\Documents\plochki\bin\Debug\plochki.exe.config
+d:\Users\admin\Documents\plochki\bin\Debug\plochki.exe
+d:\Users\admin\Documents\plochki\bin\Debug\plochki.pdb
+d:\Users\admin\Documents\plochki\obj\Debug\plochki.exe
+d:\Users\admin\Documents\plochki\obj\Debug\plochki.pdb
+d:\Users\admin\Documents\plochki\obj\Debug\plochki.OrderForm.resources

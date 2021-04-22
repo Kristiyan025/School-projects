@@ -1,0 +1,13 @@
+C:\Users\Asus\Desktop\School C#\ProjectPizza\Coordinates\bin\Debug\netcoreapp3.1\Coordinates.exe
+C:\Users\Asus\Desktop\School C#\ProjectPizza\Coordinates\bin\Debug\netcoreapp3.1\Coordinates.deps.json
+C:\Users\Asus\Desktop\School C#\ProjectPizza\Coordinates\bin\Debug\netcoreapp3.1\Coordinates.runtimeconfig.json
+C:\Users\Asus\Desktop\School C#\ProjectPizza\Coordinates\bin\Debug\netcoreapp3.1\Coordinates.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\School C#\ProjectPizza\Coordinates\bin\Debug\netcoreapp3.1\Coordinates.dll
+C:\Users\Asus\Desktop\School C#\ProjectPizza\Coordinates\bin\Debug\netcoreapp3.1\Coordinates.pdb
+C:\Users\Asus\Desktop\School C#\ProjectPizza\Coordinates\obj\Debug\netcoreapp3.1\Coordinates.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\School C#\ProjectPizza\Coordinates\obj\Debug\netcoreapp3.1\Coordinates.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\School C#\ProjectPizza\Coordinates\obj\Debug\netcoreapp3.1\Coordinates.AssemblyInfo.cs
+C:\Users\Asus\Desktop\School C#\ProjectPizza\Coordinates\obj\Debug\netcoreapp3.1\Coordinates.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\School C#\ProjectPizza\Coordinates\obj\Debug\netcoreapp3.1\Coordinates.dll
+C:\Users\Asus\Desktop\School C#\ProjectPizza\Coordinates\obj\Debug\netcoreapp3.1\Coordinates.pdb
+C:\Users\Asus\Desktop\School C#\ProjectPizza\Coordinates\obj\Debug\netcoreapp3.1\Coordinates.genruntimeconfig.cache

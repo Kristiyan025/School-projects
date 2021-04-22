@@ -1,0 +1,13 @@
+C:\Users\Asus\Desktop\Homework-18-11-2020\lazy\bin\Debug\netcoreapp3.1\lazy.exe
+C:\Users\Asus\Desktop\Homework-18-11-2020\lazy\bin\Debug\netcoreapp3.1\lazy.deps.json
+C:\Users\Asus\Desktop\Homework-18-11-2020\lazy\bin\Debug\netcoreapp3.1\lazy.runtimeconfig.json
+C:\Users\Asus\Desktop\Homework-18-11-2020\lazy\bin\Debug\netcoreapp3.1\lazy.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Homework-18-11-2020\lazy\bin\Debug\netcoreapp3.1\lazy.dll
+C:\Users\Asus\Desktop\Homework-18-11-2020\lazy\bin\Debug\netcoreapp3.1\lazy.pdb
+C:\Users\Asus\Desktop\Homework-18-11-2020\lazy\obj\Debug\netcoreapp3.1\lazy.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Homework-18-11-2020\lazy\obj\Debug\netcoreapp3.1\lazy.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Homework-18-11-2020\lazy\obj\Debug\netcoreapp3.1\lazy.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Homework-18-11-2020\lazy\obj\Debug\netcoreapp3.1\lazy.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Homework-18-11-2020\lazy\obj\Debug\netcoreapp3.1\lazy.dll
+C:\Users\Asus\Desktop\Homework-18-11-2020\lazy\obj\Debug\netcoreapp3.1\lazy.pdb
+C:\Users\Asus\Desktop\Homework-18-11-2020\lazy\obj\Debug\netcoreapp3.1\lazy.genruntimeconfig.cache

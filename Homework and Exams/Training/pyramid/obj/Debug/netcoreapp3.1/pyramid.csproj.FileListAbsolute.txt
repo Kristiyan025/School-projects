@@ -1,0 +1,13 @@
+C:\Users\Asus\Desktop\Training\pyramid\bin\Debug\netcoreapp3.1\pyramid.exe
+C:\Users\Asus\Desktop\Training\pyramid\bin\Debug\netcoreapp3.1\pyramid.deps.json
+C:\Users\Asus\Desktop\Training\pyramid\bin\Debug\netcoreapp3.1\pyramid.runtimeconfig.json
+C:\Users\Asus\Desktop\Training\pyramid\bin\Debug\netcoreapp3.1\pyramid.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Training\pyramid\bin\Debug\netcoreapp3.1\pyramid.dll
+C:\Users\Asus\Desktop\Training\pyramid\bin\Debug\netcoreapp3.1\pyramid.pdb
+C:\Users\Asus\Desktop\Training\pyramid\obj\Debug\netcoreapp3.1\pyramid.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Training\pyramid\obj\Debug\netcoreapp3.1\pyramid.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Training\pyramid\obj\Debug\netcoreapp3.1\pyramid.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Training\pyramid\obj\Debug\netcoreapp3.1\pyramid.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Training\pyramid\obj\Debug\netcoreapp3.1\pyramid.dll
+C:\Users\Asus\Desktop\Training\pyramid\obj\Debug\netcoreapp3.1\pyramid.pdb
+C:\Users\Asus\Desktop\Training\pyramid\obj\Debug\netcoreapp3.1\pyramid.genruntimeconfig.cache

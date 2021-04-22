@@ -1,0 +1,13 @@
+C:\Users\Asus\Desktop\School C#\izpitvane\izpitvane\bin\Debug\netcoreapp3.1\izpitvane.exe
+C:\Users\Asus\Desktop\School C#\izpitvane\izpitvane\bin\Debug\netcoreapp3.1\izpitvane.deps.json
+C:\Users\Asus\Desktop\School C#\izpitvane\izpitvane\bin\Debug\netcoreapp3.1\izpitvane.runtimeconfig.json
+C:\Users\Asus\Desktop\School C#\izpitvane\izpitvane\bin\Debug\netcoreapp3.1\izpitvane.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\School C#\izpitvane\izpitvane\bin\Debug\netcoreapp3.1\izpitvane.dll
+C:\Users\Asus\Desktop\School C#\izpitvane\izpitvane\bin\Debug\netcoreapp3.1\izpitvane.pdb
+C:\Users\Asus\Desktop\School C#\izpitvane\izpitvane\obj\Debug\netcoreapp3.1\izpitvane.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\School C#\izpitvane\izpitvane\obj\Debug\netcoreapp3.1\izpitvane.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\School C#\izpitvane\izpitvane\obj\Debug\netcoreapp3.1\izpitvane.AssemblyInfo.cs
+C:\Users\Asus\Desktop\School C#\izpitvane\izpitvane\obj\Debug\netcoreapp3.1\izpitvane.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\School C#\izpitvane\izpitvane\obj\Debug\netcoreapp3.1\izpitvane.dll
+C:\Users\Asus\Desktop\School C#\izpitvane\izpitvane\obj\Debug\netcoreapp3.1\izpitvane.pdb
+C:\Users\Asus\Desktop\School C#\izpitvane\izpitvane\obj\Debug\netcoreapp3.1\izpitvane.genruntimeconfig.cache

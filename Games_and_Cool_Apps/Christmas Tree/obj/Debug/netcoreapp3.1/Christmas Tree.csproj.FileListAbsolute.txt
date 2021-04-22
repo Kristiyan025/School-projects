@@ -1,0 +1,26 @@
+C:\Users\Asus\Desktop\School C#\Binary_Game\Christmas Tree\bin\Debug\netcoreapp3.1\Christmas Tree.exe
+C:\Users\Asus\Desktop\School C#\Binary_Game\Christmas Tree\bin\Debug\netcoreapp3.1\Christmas Tree.deps.json
+C:\Users\Asus\Desktop\School C#\Binary_Game\Christmas Tree\bin\Debug\netcoreapp3.1\Christmas Tree.runtimeconfig.json
+C:\Users\Asus\Desktop\School C#\Binary_Game\Christmas Tree\bin\Debug\netcoreapp3.1\Christmas Tree.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\School C#\Binary_Game\Christmas Tree\bin\Debug\netcoreapp3.1\Christmas Tree.dll
+C:\Users\Asus\Desktop\School C#\Binary_Game\Christmas Tree\bin\Debug\netcoreapp3.1\Christmas Tree.pdb
+C:\Users\Asus\Desktop\School C#\Binary_Game\Christmas Tree\obj\Debug\netcoreapp3.1\Christmas Tree.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\School C#\Binary_Game\Christmas Tree\obj\Debug\netcoreapp3.1\Christmas Tree.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\School C#\Binary_Game\Christmas Tree\obj\Debug\netcoreapp3.1\Christmas Tree.AssemblyInfo.cs
+C:\Users\Asus\Desktop\School C#\Binary_Game\Christmas Tree\obj\Debug\netcoreapp3.1\Christmas Tree.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\School C#\Binary_Game\Christmas Tree\obj\Debug\netcoreapp3.1\Christmas Tree.dll
+C:\Users\Asus\Desktop\School C#\Binary_Game\Christmas Tree\obj\Debug\netcoreapp3.1\Christmas Tree.pdb
+C:\Users\Asus\Desktop\School C#\Binary_Game\Christmas Tree\obj\Debug\netcoreapp3.1\Christmas Tree.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Projects\Games_and_Cool_Apps\Christmas Tree\bin\Debug\netcoreapp3.1\Christmas Tree.exe
+C:\Users\Asus\Desktop\Projects\Games_and_Cool_Apps\Christmas Tree\bin\Debug\netcoreapp3.1\Christmas Tree.deps.json
+C:\Users\Asus\Desktop\Projects\Games_and_Cool_Apps\Christmas Tree\bin\Debug\netcoreapp3.1\Christmas Tree.runtimeconfig.json
+C:\Users\Asus\Desktop\Projects\Games_and_Cool_Apps\Christmas Tree\bin\Debug\netcoreapp3.1\Christmas Tree.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Projects\Games_and_Cool_Apps\Christmas Tree\bin\Debug\netcoreapp3.1\Christmas Tree.dll
+C:\Users\Asus\Desktop\Projects\Games_and_Cool_Apps\Christmas Tree\bin\Debug\netcoreapp3.1\Christmas Tree.pdb
+C:\Users\Asus\Desktop\Projects\Games_and_Cool_Apps\Christmas Tree\obj\Debug\netcoreapp3.1\Christmas Tree.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Projects\Games_and_Cool_Apps\Christmas Tree\obj\Debug\netcoreapp3.1\Christmas Tree.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Projects\Games_and_Cool_Apps\Christmas Tree\obj\Debug\netcoreapp3.1\Christmas Tree.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Projects\Games_and_Cool_Apps\Christmas Tree\obj\Debug\netcoreapp3.1\Christmas Tree.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Projects\Games_and_Cool_Apps\Christmas Tree\obj\Debug\netcoreapp3.1\Christmas Tree.dll
+C:\Users\Asus\Desktop\Projects\Games_and_Cool_Apps\Christmas Tree\obj\Debug\netcoreapp3.1\Christmas Tree.pdb
+C:\Users\Asus\Desktop\Projects\Games_and_Cool_Apps\Christmas Tree\obj\Debug\netcoreapp3.1\Christmas Tree.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+C:\Users\Asus\Desktop\School C#\Classes 14-02-2021\Animals\bin\Debug\netcoreapp3.1\Food.exe
+C:\Users\Asus\Desktop\School C#\Classes 14-02-2021\Animals\bin\Debug\netcoreapp3.1\Animals.exe
+C:\Users\Asus\Desktop\School C#\Classes 14-02-2021\Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
+C:\Users\Asus\Desktop\School C#\Classes 14-02-2021\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
+C:\Users\Asus\Desktop\School C#\Classes 14-02-2021\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\School C#\Classes 14-02-2021\Animals\bin\Debug\netcoreapp3.1\Animals.dll
+C:\Users\Asus\Desktop\School C#\Classes 14-02-2021\Animals\bin\Debug\netcoreapp3.1\Animals.pdb
+C:\Users\Asus\Desktop\School C#\Classes 14-02-2021\Animals\bin\Debug\netcoreapp3.1\Food.dll
+C:\Users\Asus\Desktop\School C#\Classes 14-02-2021\Animals\bin\Debug\netcoreapp3.1\Food.pdb
+C:\Users\Asus\Desktop\School C#\Classes 14-02-2021\Animals\obj\Debug\netcoreapp3.1\Animals.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\School C#\Classes 14-02-2021\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\School C#\Classes 14-02-2021\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfo.cs
+C:\Users\Asus\Desktop\School C#\Classes 14-02-2021\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\School C#\Classes 14-02-2021\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.CopyComplete
+C:\Users\Asus\Desktop\School C#\Classes 14-02-2021\Animals\obj\Debug\netcoreapp3.1\Animals.dll
+C:\Users\Asus\Desktop\School C#\Classes 14-02-2021\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
+C:\Users\Asus\Desktop\School C#\Classes 14-02-2021\Animals\obj\Debug\netcoreapp3.1\Animals.genruntimeconfig.cache

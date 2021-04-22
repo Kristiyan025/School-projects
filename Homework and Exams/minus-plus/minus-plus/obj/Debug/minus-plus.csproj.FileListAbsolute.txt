@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\School C#\minus-plus\minus-plus\bin\Debug\Failove-19-03.exe.config
+C:\Users\Asus\Desktop\School C#\minus-plus\minus-plus\bin\Debug\Failove-19-03.exe
+C:\Users\Asus\Desktop\School C#\minus-plus\minus-plus\bin\Debug\Failove-19-03.pdb
+C:\Users\Asus\Desktop\School C#\minus-plus\minus-plus\obj\Debug\minus-plus.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\School C#\minus-plus\minus-plus\obj\Debug\minus_plus.Form1.resources
+C:\Users\Asus\Desktop\School C#\minus-plus\minus-plus\obj\Debug\Failove_19_03.Properties.Resources.resources
+C:\Users\Asus\Desktop\School C#\minus-plus\minus-plus\obj\Debug\minus-plus.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\School C#\minus-plus\minus-plus\obj\Debug\minus-plus.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\School C#\minus-plus\minus-plus\obj\Debug\Failove-19-03.exe
+C:\Users\Asus\Desktop\School C#\minus-plus\minus-plus\obj\Debug\Failove-19-03.pdb

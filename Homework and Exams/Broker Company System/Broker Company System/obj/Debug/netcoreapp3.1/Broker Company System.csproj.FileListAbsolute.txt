@@ -1,0 +1,6 @@
+C:\Users\Asus\Desktop\Broker Company System\Broker Company System\bin\Debug\netcoreapp3.1\Broker Company System.exe
+C:\Users\Asus\Desktop\Broker Company System\Broker Company System\obj\Debug\netcoreapp3.1\Broker Company System.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Broker Company System\Broker Company System\obj\Debug\netcoreapp3.1\Broker Company System.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Broker Company System\Broker Company System\obj\Debug\netcoreapp3.1\Broker Company System.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Broker Company System\Broker Company System\obj\Debug\netcoreapp3.1\Broker Company System.dll
+C:\Users\Asus\Desktop\Broker Company System\Broker Company System\obj\Debug\netcoreapp3.1\Broker Company System.pdb

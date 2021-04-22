@@ -1,0 +1,13 @@
+C:\Users\Asus\Desktop\Training\dates\bin\Debug\netcoreapp3.1\dates.exe
+C:\Users\Asus\Desktop\Training\dates\bin\Debug\netcoreapp3.1\dates.deps.json
+C:\Users\Asus\Desktop\Training\dates\bin\Debug\netcoreapp3.1\dates.runtimeconfig.json
+C:\Users\Asus\Desktop\Training\dates\bin\Debug\netcoreapp3.1\dates.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Training\dates\bin\Debug\netcoreapp3.1\dates.dll
+C:\Users\Asus\Desktop\Training\dates\bin\Debug\netcoreapp3.1\dates.pdb
+C:\Users\Asus\Desktop\Training\dates\obj\Debug\netcoreapp3.1\dates.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Training\dates\obj\Debug\netcoreapp3.1\dates.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Training\dates\obj\Debug\netcoreapp3.1\dates.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Training\dates\obj\Debug\netcoreapp3.1\dates.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Training\dates\obj\Debug\netcoreapp3.1\dates.dll
+C:\Users\Asus\Desktop\Training\dates\obj\Debug\netcoreapp3.1\dates.pdb
+C:\Users\Asus\Desktop\Training\dates\obj\Debug\netcoreapp3.1\dates.genruntimeconfig.cache
