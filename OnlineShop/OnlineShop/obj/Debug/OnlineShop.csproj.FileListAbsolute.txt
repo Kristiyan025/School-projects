@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\School C#\OnlineShop\OnlineShop\bin\Debug\OnlineShop.exe.config
+C:\Users\Asus\Desktop\School C#\OnlineShop\OnlineShop\bin\Debug\OnlineShop.exe
+C:\Users\Asus\Desktop\School C#\OnlineShop\OnlineShop\bin\Debug\OnlineShop.pdb
+C:\Users\Asus\Desktop\School C#\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\School C#\OnlineShop\OnlineShop\obj\Debug\OnlineShop.fOnlineShop.resources
+C:\Users\Asus\Desktop\School C#\OnlineShop\OnlineShop\obj\Debug\OnlineShop.Properties.Resources.resources
+C:\Users\Asus\Desktop\School C#\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\School C#\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\School C#\OnlineShop\OnlineShop\obj\Debug\OnlineShop.exe
+C:\Users\Asus\Desktop\School C#\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
